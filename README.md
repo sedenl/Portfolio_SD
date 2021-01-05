@@ -1,6 +1,6 @@
 # Portfolio_SD
 Data Science Portfolio
-[## Collision and Citation Data Project](https://github.com/sedenl/Collision-and-Citation-Data-Project)
+## [Collision and Citation Data Project](https://github.com/sedenl/Collision-and-Citation-Data-Project)
 - Montgomery County Parking Citation Data and the Maryland Crash Data were used for this project.
 - Loaded data into dataframe and cleaned data.
 - Performed exploratory data analysis on both datasets.
