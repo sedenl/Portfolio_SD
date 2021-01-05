@@ -1,7 +1,7 @@
 # Portfolio_SD
 Data Science Portfolio
 ## [Collision and Citation Data Project](https://github.com/sedenl/Collision-and-Citation-Data-Project)
-- Montgomery County Parking Citation Data and the Maryland Crash Data were used for this project.
+- Maryland Crash Data from January 2015 through September 2020 and the parking citation data for Montgomery County from July 2019 to July of 2020 were used for this   project.
 - Loaded data into dataframe and cleaned data.
 - Performed exploratory data analysis on both datasets.
 - Analyzed both datasets to answer my hypothesis that there would be more crashes and citations during the winter than other seasons.
