@@ -6,5 +6,5 @@ Data Science Portfolio
 - Performed exploratory data analysis on both datasets.
 - Analyzed both datasets to answer my hypothesis that there would be more crashes and citations during the winter than other seasons.
 - Answered the question of if there was a correlation between crashes and citations in Montgomery County by finding the Pearson correlation coefficient and creating a heat map to visualize these results.
-![](https://github.com/sedenl/Portfolio_SD/blob/main/citation_hourgraph.png)
-![](https://github.com/sedenl/Portfolio_SD/blob/main/citation_crashgraph1.png)
+![] (https://github.com/sedenl/Portfolio_SD/blob/main/citation_hourgraph.png)
+![] (https://github.com/sedenl/Portfolio_SD/blob/main/citation_crashgraph1.png)
